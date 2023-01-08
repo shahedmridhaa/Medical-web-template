@@ -1,0 +1,212 @@
+
+@media all and (max-width:1200px){
+    .service-text {
+        padding: 15px 10px;
+    }
+    .service-right-text h4 {
+        font-size: 18px;
+    }
+    .card-body h5 {
+        font-weight: 500;
+    }
+    .experince-left {
+        margin-right: 11px;
+    }
+    .clients-infu img {
+        left: 42%;
+    }
+    .technology-img img {
+        width: 377px;
+    }
+    .technology-img .iner-img img {
+        width: 227px;
+        right: -18px;
+        bottom: -44px;
+    }
+    .research {
+        position: relative;
+        top: 0;
+        left: 0;
+       
+    }
+    .technology {
+        margin-top: 0px;
+    }
+    /* banner start */
+    .banner-section .details h2 {
+        font-size: 2.2rem;
+    }
+    .banner-section .details p {
+        font-size: 0.8rem;
+    }
+    /* banner end */
+}
+@media (max-width:1000px){
+    .container{
+        width: 100% ;
+        margin: auto;
+    }
+    .banner-section .carousel-caption h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .rete-text h5 {
+        font-size: 14px;
+    }
+    .rete-text h2 {
+        font-size: 35px;
+    }
+   
+}
+
+@media all and (max-width:995px){
+    .header-top{
+        display: none;
+    }
+    .news-section .card-title {
+        font-size: 14px;
+    }
+    .news-header h6 {
+        padding: 7px 10px;
+    }
+    .card-body {
+        padding: 1rem 7px;
+    }
+    .icon {
+        width: 100px;
+    }
+    .social-icon ul li a {
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+    }
+    .tech-right-content h2 {
+        font-size: 25px;
+    }
+    .technology-img img {
+        width: 100%;
+    }
+    .technology-img .iner-img img {
+        width: 291px;
+    }
+    .technology-img .iner-img img {
+        width: 155px;
+        right: -22px;
+        bottom: -21px;
+    }
+    .technology-img .iner-img img {
+        width: 155px;
+        right: 89px;
+        bottom: -21px;
+    }
+}
+
+@media all and (max-width:986px){
+    .technology {
+        margin-top:0;
+    }
+}
+
+
+@media all and (max-width:890px) {
+    .banner-section .details h2 {
+        font-size: 1.8rem;
+    }
+    .banner-section .details p {
+        font-size: 0.8rem;
+        padding: 17px 0 !important;
+    }
+}
+@media all and (max-width:770px){
+    .service-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 37px;
+        margin-right: 8px;
+    }
+    .service-right-text h4 {
+        font-size: 15px;
+    }
+    .service-text p {
+        font-size: 13px;
+    }
+    .service-text a {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .clients-text h2 {
+        font-size: 30px;
+    }
+    .clients-infu img {
+        left: 37%;
+    }
+    .technology {
+        margin-top: 0px;
+    }
+
+}
+@media all and (max-width:767px){
+    .technology-img .iner-img img {
+        right: 210px;
+    }
+   
+}
+@media all and (max-width:764px){
+    .research {
+        left: 16px;
+    }
+}
+
+@media all and (max-width:694px) {
+    .banner-section .details {
+        top: 17%;
+    }
+    .banner-section .details h2 {
+        font-size: 1.3rem;
+    }
+    .banner-section .details p {
+        font-size: 0.7rem;
+        padding: 6px 0 !important;
+    }
+    .banner-section .details {
+        width: 75%;
+        left: 14%;
+    }
+}
+
+
+
+@media all and (max-width:576px){
+ 
+}
+@media all and (max-width:578px){
+    .service-text p {
+        margin-bottom: 5px;
+    }
+    .clients-text h2 {
+        font-size: 25px;
+    }
+    .technology-img .iner-img img {
+        right: 252px;
+    }
+    
+}
+@media all and (max-width:570px){
+    .technology-img .iner-img img {
+        right: 232px;
+    }
+}
+
+@media all and (max-width:480px) {
+    .banner-section .details {
+        width: 90%;
+        left: 5%;
+        top: 5%;
+    }
+}
+
+@media all and (min-width:575px) {
+    .reserce-all {
+        margin-bottom: 14px !important;
+    }
+}
